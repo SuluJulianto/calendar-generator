@@ -1,2 +1,3 @@
-# make-calendar-with-python
+# make-calendar
+
 Create your own calendar
