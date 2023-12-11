@@ -89,4 +89,19 @@ The program will display the calendar for each month of the specified year.
 - If the input year is outside the specified range (1-9999), the program will prompt the user to choose another year.
 - If the input is not a valid year (e.g., not an integer or exceeds the expected range), the program will request a valid calendar year input.
 
-Feel free to explore and modify the code in each language to suit your requirements!
+## Golang
+The Golang script (`calendar_generator.go`) generates a calendar for a specified year. Upon execution, it prompts the user to input a year within the range of 1 to 9999 in the terminal.
+
+### Usage
+To use the Golang script:
+- Run the Golang script (`calendar_generator.go`).
+- Enter a year between 1 and 9999 when prompted in the terminal.
+
+The script will display the calendar for each month of the specified year.
+
+### Error Handling
+- If the input year is outside the specified range (1-9999), the script will prompt the user to choose another year.
+- If the input is not a valid year (e.g., not an integer or exceeds the expected range), the script will request a valid calendar year input.
+
+Feel free to explore and modify the code to suit your requirements!
+
