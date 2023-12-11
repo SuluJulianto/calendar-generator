@@ -3,6 +3,8 @@
 This repository contains scripts in various programming languages that generate a calendar for a specified year. Each script prompts the user to input a year within the range of 1 to 9999 and displays the calendar for each month of that year.
 
 ## Python
+The Python script (`calendar_generator.py`) generates a calendar for a specified year. Upon execution, it requests the user to input a year within the range of 1 to 9999.
+
 ### Usage
 To use the Python script:
 - Run the Python script (`calendar_generator.py`).
@@ -15,6 +17,8 @@ The script will display the calendar for each month of the specified year.
 - If the input is not a valid year (e.g., not an integer or exceeds the expected range), the script will request a valid calendar year input.
 
 ## JavaScript
+The JavaScript script (`calendar_generator.js`) generates a calendar for a specified year. Upon execution, it requests the user to input a year within the range of 1 to 9999 in the terminal.
+
 ### Usage
 To use the JavaScript script:
 - Run the JavaScript script (`calendar_generator.js`).
@@ -27,6 +31,8 @@ The script will display the calendar for each month of the specified year.
 - If the input is not a valid year (e.g., not a number or exceeds the expected range), the script will request a valid calendar year input.
 
 ## Ruby
+The Ruby script (`calendar_generator.rb`) generates a calendar for a specified year. Upon execution, it requests the user to input a year within the range of 1 to 9999.
+
 ### Usage
 To use the Ruby script:
 - Run the Ruby script (`calendar_generator.rb`).
@@ -39,6 +45,8 @@ The script will display the calendar for each month of the specified year.
 - If the input is not a valid year (e.g., not an integer or exceeds the expected range), the script will request a valid calendar year input.
 
 ## C
+The C code (`calendar_generator.c`) generates a calendar for a specified year. Upon execution, it requests the user to input a year within the range of 1 to 9999.
+
 ### Usage
 To use the C code:
 - Compile the C file (`calendar_generator.c`) using a C compiler.
@@ -52,6 +60,8 @@ The program will display the calendar for each month of the specified year.
 - If the input is not a valid year (e.g., not an integer or exceeds the expected range), the program will request a valid calendar year input.
 
 ## C++
+The C++ code (`calendar_generator.cpp`) generates a calendar for a specified year. Upon execution, it requests the user to input a year within the range of 1 to 9999.
+
 ### Usage
 To use the C++ code:
 - Compile the C++ file (`calendar_generator.cpp`) using a C++ compiler.
@@ -65,6 +75,8 @@ The program will display the calendar for each month of the specified year.
 - If the input is not a valid year (e.g., not an integer or exceeds the expected range), the program will request a valid calendar year input.
 
 ## PHP
+The PHP script (`calendar_generator.php`) generates a calendar for a specified year. Upon execution, it requests the user to input a year within the range of 1 to 9999.
+
 ### Usage
 To use the PHP script:
 - Run the PHP script (`calendar_generator.php`).
@@ -77,6 +89,8 @@ The script will display the calendar for each month of the specified year.
 - If the input is not a valid year (e.g., not an integer or exceeds the expected range), the script will request a valid calendar year input.
 
 ## Java
+The Java code (`CalendarGenerator.java`) generates a calendar for a specified year. Upon execution, it requests the user to input a year within the range of 1 to 9999.
+
 ### Usage
 To use the Java code:
 - Compile the Java file (`CalendarGenerator.java`) using a Java compiler.
@@ -104,4 +118,3 @@ The script will display the calendar for each month of the specified year.
 - If the input is not a valid year (e.g., not an integer or exceeds the expected range), the script will request a valid calendar year input.
 
 Feel free to explore and modify the code to suit your requirements!
-
